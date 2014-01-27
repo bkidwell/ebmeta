@@ -1,0 +1,13 @@
+title: $title
+
+# List authors separated by ampersands (&)
+authors: $authors
+
+publisher: $publisher
+
+isbn: $isbn
+language: $language
+
+tags: $tags
+
+description: $description

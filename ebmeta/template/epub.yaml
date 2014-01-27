@@ -1,0 +1,23 @@
+title: $title
+title sort: $title_sort
+
+# List authors separated by ampersands (&)
+authors: $authors
+author sort: $author_sort
+
+publication date: $publication_date # D MMM YYYY format
+publisher: $publisher
+
+book producer: $book_producer
+
+isbn: $isbn
+uuid: $uuid
+language: $language
+
+tags: $tags
+rating: $rating # personal rating
+
+series: $series # name of the series
+series index: $series_index # ordinal number within a series
+
+description: $description
