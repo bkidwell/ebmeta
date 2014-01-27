@@ -1,10 +1,9 @@
 import logging
-import tempfile
 from ebmeta import shell
 from ebmeta.formats.exiftooljsonreader import ExifToolJsonReader
 from . import Ebook
 
-log = logging.getLogger('mobi')
+log = logging.getLogger('pdf')
 
 class Pdf(Ebook):
     def __init__(self, path):
